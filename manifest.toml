@@ -22,7 +22,7 @@ yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 
-ldap = false
+ldap = true
 
 sso = false
 
